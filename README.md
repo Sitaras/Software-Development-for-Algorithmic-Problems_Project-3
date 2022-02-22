@@ -1,17 +1,11 @@
 # Software-Development-for-Algorithmic-Problems_Project-3
 ♾️|Time-Series Forecasting using an LSTM Model, Anomaly Detection and Dimensionality Reduction with LSTM Autoencoders.
 
-Μέλη Ομάδας
+### Team 
+- [Giannis Kapetangeorgis](https://github.com/giannhskp)
+- [Dimitris Sitaras](https://github.com/Sitaras)
 
-```
-Ονοματεπώνυμο Αριθμός Μητρώου
-```
-```
-Ιωάννης Καπετανγεώργης 1115201800061
-```
-```
-Δημήτριος Σιταράς 1115201800178
-```
+
 ## Οργάνωση Κώδικα
 ```
 .
